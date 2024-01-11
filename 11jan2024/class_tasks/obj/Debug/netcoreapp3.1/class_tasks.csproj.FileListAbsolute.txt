@@ -1,0 +1,13 @@
+C:\Users\Comp\source\repos\11jan2024\class_tasks\bin\Debug\netcoreapp3.1\class_tasks.exe
+C:\Users\Comp\source\repos\11jan2024\class_tasks\bin\Debug\netcoreapp3.1\class_tasks.deps.json
+C:\Users\Comp\source\repos\11jan2024\class_tasks\bin\Debug\netcoreapp3.1\class_tasks.runtimeconfig.json
+C:\Users\Comp\source\repos\11jan2024\class_tasks\bin\Debug\netcoreapp3.1\class_tasks.runtimeconfig.dev.json
+C:\Users\Comp\source\repos\11jan2024\class_tasks\bin\Debug\netcoreapp3.1\class_tasks.dll
+C:\Users\Comp\source\repos\11jan2024\class_tasks\bin\Debug\netcoreapp3.1\class_tasks.pdb
+C:\Users\Comp\source\repos\11jan2024\class_tasks\obj\Debug\netcoreapp3.1\class_tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\11jan2024\class_tasks\obj\Debug\netcoreapp3.1\class_tasks.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\11jan2024\class_tasks\obj\Debug\netcoreapp3.1\class_tasks.AssemblyInfo.cs
+C:\Users\Comp\source\repos\11jan2024\class_tasks\obj\Debug\netcoreapp3.1\class_tasks.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\11jan2024\class_tasks\obj\Debug\netcoreapp3.1\class_tasks.dll
+C:\Users\Comp\source\repos\11jan2024\class_tasks\obj\Debug\netcoreapp3.1\class_tasks.pdb
+C:\Users\Comp\source\repos\11jan2024\class_tasks\obj\Debug\netcoreapp3.1\class_tasks.genruntimeconfig.cache
